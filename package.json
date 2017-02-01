@@ -1,0 +1,12 @@
+{
+  "name": "simple-photo-organizer",
+  "version": "0.0.1",
+  "description": "Simple Program to move files or photos based off their mtime",
+  "main": "getPhotos.js",
+  "author": "Spencer Hutchinson",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "moment": "^2.17.1"
+  }
+}
